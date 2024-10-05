@@ -11,7 +11,9 @@ A driven finance professional with a passion for data analytics and a strong fou
 *   ✉️  You can contact me at [hafizhmaul18@gmail.com](mailto:hafizhmaul18@gmail.com)
 *   🧠  I'm learning Machine Learning
 *   🤝  I'm open to collaborating on Financial Analysis or Creating Machine Learning
-*   ⚡  I am ENTP just like Joker<a href="https://www.github.com/hafizhmaul18" target="_blank" rel="noreferrer"><img
+*   ⚡  I am ENTP just like Joker
+
+<a href="https://www.github.com/hafizhmaul18" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/hafizhmaul18?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
